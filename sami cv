@@ -1,1 +1,92 @@
-http://3.104.116.31:8084/cv.html
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Abdul Sami Waheed - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        ul {
+            margin: 0;
+            padding: 0;
+        }
+
+        li {
+            list-style-type: none;
+            margin-bottom: 5px;
+        }
+
+        .contact-info {
+            margin-bottom: 20px;
+        }
+
+        .work-experience {
+            margin-top: 20px;
+        }
+
+        .skills {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Abdul Sami Waheed</h1>
+    <div class="contact-info">
+        <ul>
+            <li>Email: sami_virgorider@hotmail.com</li>
+            <li>Phone: (123) 456-7890</li>
+            <li>Website: <a href="www.johndoe.com">www.johndoe.com</a></li>
+        </ul>
+    </div>
+
+    <h2>Education</h2>
+    <p>University of XYZ - Bachelor of Science in Computer Science</p>
+    <p>Graduated: May 20XX</p>
+
+    <div class="work-experience">
+        <h2>Work Experience</h2>
+        <p>Software Developer - ABC Tech Solutions</p>
+        <p>July 20XX - Present</p>
+        <ul>
+            <li>Developing web applications using HTML, CSS, and JavaScript</li>
+            <li>Collaborating with cross-functional teams to design and implement new features</li>
+            <li>Testing and debugging code to ensure proper functionality</li>
+        </ul>
+
+        <p>Intern - XYZ Software Company</p>
+        <p>June 20XX - August 20XX</p>
+        <ul>
+            <li>Assisted in the development of mobile applications</li>
+            <li>Conducted research on emerging technologies</li>
+            <li>Participated in team meetings and brainstorming sessions</li>
+        </ul>
+    </div>
+
+    <div class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>Java</li>
+            <li>Version Control (Git)</li>
+            <li>Problem Solving</li>
+        </ul>
+    </div>
+</body>
+
+</html>
